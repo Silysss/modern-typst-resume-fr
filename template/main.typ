@@ -15,7 +15,7 @@
   ),
 )
 
-== Education
+== Etudes
 
 #experience-edu(
   title: "Master's degree",
@@ -49,7 +49,7 @@
   date-to: "07/2021",
 )
 
-== Work experience
+== Expériences Professionnelles
 
 #experience-work(
   title: "Data Scientist",
@@ -91,7 +91,7 @@
 #pill("Critical thinking", fill: true)
 #pill("Problem solving", fill: true)
 
-== Projects
+== Projets
 
 #project(
   title: [#link("https://www.google.com")[Project 1]],
@@ -131,12 +131,12 @@
   subtitle: "Issued by authority XY",
 )
 
-== Languages
+== Langues
 
 #pill("German (native)")
 #pill("English (C1)")
 
-== Interests
+== Intérêts
 
 #pill("Maker-culture")
 #pill("Science")
