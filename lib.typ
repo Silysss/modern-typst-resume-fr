@@ -173,7 +173,7 @@
 
 // experience-edu renders a content block for educational experience.
 #let experience-edu(..args) = {
-  experience(..args, label: "Courses")
+  experience(..args, label: "")
 }
 
 // experience-work renders a content block for work experience.
